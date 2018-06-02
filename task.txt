@@ -1,0 +1,44 @@
+01 - India socio economic data
+
+02 - India elementary school data
+
+03 - Combined socio economic with elementary school data of India census
+
+04 - Imputing the combined socio economic data
+
+05 - State wise male and female population in India
+
+06 - Sex ratio of females per 1000 males in different states of India
+
+07 - Population of different types of age groups in India
+
+08 - Different age group percentage in India
+
+09 - Religion's distribution in India
+
+10 - State wise SC populations percentage in India
+
+11 - State wise ST populations percentage in India
+
+12 - Literacy Rate in different states of India
+
+13 - Types of education level attended populations in different states of India
+
+14 - Populations of different Types of Workers In different states of India
+
+15 - State wise house hold size in different states of India
+
+16 - State wise population percentage having different drinking water source in India
+
+17 - Manupulating India gdp data
+
+18 - India gdp data at state and district level
+
+19 - Combined soio economic, elementary school and gdp data
+
+20 - Imputing socio economic , elementary school and gdp data
+
+21 - Normalize the socio data
+
+22 - Population of each states after normalizing
+
