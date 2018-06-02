@@ -1,2 +1,4 @@
 # PyData-Pune-Code-Coffee
-Lets Code...
+
+## Tameeshb
+### The .ipynb notebook includes csvs from the /csvs directory. Please extract the zip for csvs

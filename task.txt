@@ -30,7 +30,7 @@
 
 16 - State wise population percentage having different drinking water source in India
 
-17 - Manupulating India gdp data
+17 - Manipulating India gdp data
 
 18 - India gdp data at state and district level
 
